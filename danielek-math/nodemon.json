@@ -1,0 +1,6 @@
+{
+    "watch": ["main.js"],
+    "exec": "open -a Obsidian",
+    "ext": "js"
+  }
+  
